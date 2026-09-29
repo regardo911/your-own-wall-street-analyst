@@ -1,0 +1,27 @@
+desk-calls [TICKER] · THIS = [quarter] · LAST = [quarter]
+
+You get two call transcripts, labelled THIS and LAST, and the
+company's results release (8-K Exhibit 99.1) if I attach it.
+Use only these documents.
+
+Report what CHANGED from LAST to THIS, in six groups:
+1. GUIDANCE: any number given for the year or next quarter.
+   Old vs new.
+2. COSTS AND MARGINS: input costs, pricing, promotions, margins.
+3. INVESTMENT: capex, plants, hiring, buybacks, debt.
+4. SILENCE: topics that took real time on LAST and don't appear
+   on THIS. Flag them. Don't explain them.
+5. NEW: topics on THIS that weren't on LAST.
+6. ASKED: topics analysts asked about on THIS, how many analysts
+   asked each, and whether the same topics came up on LAST.
+
+Rules:
+- For every change, quote LAST and quote THIS, with the speaker's
+  name. Quote numbers exactly; never paraphrase a number.
+- If a group has no change, write NO CHANGE.
+- Mark every guidance number CHECK AGAINST RELEASE. If the release
+  is attached, check it and say MATCHES or DIFFERS, quoting both.
+- Use only the section headed Full Conference Call Transcript (or
+  the company's own transcript). Ignore any summary text.
+- End with one line: the change most relevant to my thesis card.
+- No predictions, no price reaction, no buy/sell.

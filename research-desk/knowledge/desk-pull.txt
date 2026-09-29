@@ -1,0 +1,13 @@
+desk-pull [TICKER] · [FORM] · [PERIOD]
+
+Fetch from the filing itself, not from memory or a news site.
+1. Total revenue, using the filing's own line name.
+2. Gross margin in dollars AND as a percent. Say which one the
+   filing prints and where, and which one you calculated.
+3. Shares outstanding, with its "as of" date.
+
+For each number: value · form · filing date · section or line ·
+period (start and end dates).
+If a line shows more than one period, give me the period I named
+and tell me the other one exists.
+If you can't get it from the filing, write NOT FOUND. Don't guess.

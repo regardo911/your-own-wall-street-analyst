@@ -1,0 +1,13 @@
+MODEL SCORECARD · [TICKER] · [date]            Claude   Other
+1. Numbers sourced: pick 3 numbers, open each
+   citation. Is the number actually on that page?  ___/1   ___/1
+2. Numbers current: is the newest filing used the
+   same one you found on EDGAR in step 1?          ___/1   ___/1
+3. Bear case present: at least two facts against
+   owning it, not "investing involves risk"?       ___/1   ___/1
+4. Answered the question: a memo, not a price
+   call, a buy/sell opinion, or a generic summary? ___/1   ___/1
+5. Format kept: all six template fields, in
+   order, every number tagged?                     ___/1   ___/1
+TOTAL                                              ___/5   ___/5
+Notes (what failed, exactly):

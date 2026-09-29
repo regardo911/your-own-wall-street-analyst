@@ -1,0 +1,9 @@
+DATA-SOURCE CARD · [today's date]
+Market:            US / India
+Route:             filing drop + [connector name]
+Connector covers:  statements? filings? transcripts? insider filings?
+Freshness:         end of day / live / manual
+Daily limit:       [calls per day]      Cost: [$ per month]
+Order tools:       none on this connector / every one Blocked
+Three-number test: AAPL [date] _/4 · [your ticker] [date] _/4
+Notes:             [anything that failed, and why]

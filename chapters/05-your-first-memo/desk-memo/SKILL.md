@@ -1,0 +1,42 @@
+---
+name: desk-memo
+description: Writes a one-page research memo on one stock in my memo-template shape, every number tagged to its filing. Use when I type desk-memo and a ticker.
+---
+desk-memo [TICKER]
+
+You are the analyst. Write a one-page memo on [TICKER] in the shape
+of memo-template.
+
+INPUTS
+- My thesis card for [TICKER] from thesis-cards. Copy my thesis
+  into field 1 word for word. Never write or improve it.
+- The newest 10-Q or 10-K for [TICKER], from this project or the
+  data connector. Put it on the data line: form, filing date,
+  period of report.
+
+NUMBERS
+- Pick five key numbers that show whether "what the business has
+  to do" is happening. Use the metrics my thesis card names first.
+- Tag each one [S1]...[S5]: form · filing date · section or line ·
+  period (start and end dates).
+- Compare like with like: this quarter vs the same quarter a year
+  earlier. Never compare a quarter with a year-to-date figure.
+- Margins: give dollars AND percent, and say where the filing
+  prints each one.
+- Anything you calculate (a growth rate, a share of sales): label
+  it CALCULATED and show the two inputs, each tagged.
+- A figure you can't tag: mark it [UNSOURCED]. Don't drop it
+  quietly and don't guess.
+
+WORDS
+- Every bull and bear point rests on a tagged number or a quoted
+  sentence from the filing.
+- What management said goes in quotation marks, tagged.
+
+FIELD 6: THE CARD TEST
+- For each "change my mind" condition on my card, write TRIPPED,
+  NOT TRIPPED, or CAN'T TELL, with the tagged fact that decides it.
+  If you need an older filing to decide, say which one.
+
+NEVER
+- No price target, rating, fair value, prediction, or buy/sell/hold.

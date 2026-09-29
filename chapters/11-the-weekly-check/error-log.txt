@@ -1,0 +1,6 @@
+ERROR LOG
+Date   | Ticker | What was wrong           | Failure name  | Caught by  | Fix
+______ | ______ | ________________________ | _____________ | __________ | ______
+Failure names: INVENTED · WRONG PERIOD · WRONG UNIT · STALE ·
+UNTAGGED · BAD CITATION · YES-MAN
+Fixes: RE-PULLED · COMMAND TIGHTENED · SOURCE CHANGED · MODEL CHANGED

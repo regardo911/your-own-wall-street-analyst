@@ -1,0 +1,14 @@
+WHAT MY DESK SEES · [date]
+ITEM                                   SENT or KEPT   WHERE IT GOES
+Tickers on my list                     SENT           Claude; connector
+Thesis and candidate cards             SENT           Claude project
+Memos, breakers, decisions             SENT           Claude project
+Filings and transcripts                SENT (public)  Claude project
+Questions the clerk asks               SENT           Claude; Equibles
+Morning brief                          SENT           Claude; Gmail draft
+Shares owned                           KEPT           my brokerage only
+Cost basis                             KEPT           my brokerage only
+Account numbers, broker login          KEPT           never typed anywhere
+Order tools on any connector           BLOCKED        n/a
+Equibles portfolio tools               BLOCKED        n/a
+Training setting                       OFF            Settings > Privacy

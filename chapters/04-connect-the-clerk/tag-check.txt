@@ -1,0 +1,16 @@
+Chapter 4, steps 4 and 5. Top: the book's Apple key, as printed. Bottom: the same table, blank, for your own stock.
+
+TAG CHECK · AAPL · 10-Q filed 2026-07-31 · three months ended June 27, 2026
+Number              Desk says   Filing says        Where                     Match
+Total net sales     ________    $109,417M          Statements of Operations  Y / N
+Gross margin ($)    ________    $54,770M           Statements of Operations  Y / N
+Gross margin (%)    ________    50.1%              MD&A, gross margin table  Y / N
+Shares outstanding  ________    14,594,180,000     Cover page, as of
+                                                   July 17, 2026             Y / N
+
+TAG CHECK · [TICKER] · [FORM] · [PERIOD]
+Number              Desk says   Filing says        Where                     Match
+Total net sales     ________    ________           ________________________  Y / N
+Gross margin ($)    ________    ________           ________________________  Y / N
+Gross margin (%)    ________    ________           ________________________  Y / N
+Shares outstanding  ________    ________           ________________________  Y / N

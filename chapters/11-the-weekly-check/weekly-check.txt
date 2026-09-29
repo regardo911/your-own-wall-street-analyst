@@ -1,0 +1,10 @@
+WEEKLY DESK CHECK · [date]                         Result
+1. Open 3 random citations from this week's brief
+   or memos. Is the number on that page, in that
+   period, in those units?                         _/3
+2. Pick 1 UNCHANGED name. Open its EDGAR filing
+   list. Anything filed after its memo's data line?  Y / N
+3. Blind re-run: in Bear Desk, re-run desk-bear on
+   the holding where every card condition says NOT
+   TRIPPED. Any breaker that isn't in breakers?     Y / N
+4. Anything wrong in 1-3 goes in error-log, named.  _ rows

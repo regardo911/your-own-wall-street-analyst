@@ -1,0 +1,10 @@
+MONTHLY DESK REVIEW · month [n]
+Names on the morning run ............ [n]   (added [n], removed [n])
+Memos written or updated ............ [n]
+Alerts flagged / led to a decision .. [n] / [n]
+Breakers fired ...................... [n]   (re-ran the bear on [n])
+Errors logged (by failure name) ..... [n]   top: [name]
+Cost: weekly limit per name ......... [%]   (from the cost log)
+Scorecard rows reaching 30 / 90 days  [n] / [n]
+One thing to change next month:
+One thing to stop doing:

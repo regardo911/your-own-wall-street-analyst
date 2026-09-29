@@ -1,0 +1,33 @@
+DESK MEMO · [COMPANY] ([TICKER])
+Data line: newest filing used = [form, filing date] · newest
+transcript = [call date] · memo run = [today's date]
+
+1. THESIS (from my thesis card, not the desk)
+   [three sentences]
+
+2. WHAT THE BUSINESS HAS TO DO
+   - [must keep happening #1]
+   - [must keep happening #2]
+
+3. BULL CASE (from the filings, tagged)
+   [4-6 lines]
+
+4. BEAR CASE (from the filings, tagged)
+   [4-6 lines]
+
+5. FIVE KEY NUMBERS
+   1. [metric] ... [value]  [S1]
+   2. [metric] ... [value]  [S2]
+   3. [metric] ... [value]  [S3]
+   4. [metric] ... [value]  [S4]
+   5. [metric] ... [value]  [S5]
+
+6. WHAT WOULD CHANGE MY MIND
+   - [a fact I could find in a future filing]
+   - [a second one]
+
+SOURCES
+[S1] form · filing date · section or line · period
+...
+Rules: every number has a tag. No price targets, ratings or
+buy/sell calls. Anything not in the filings = NOT FOUND.

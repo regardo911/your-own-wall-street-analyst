@@ -1,0 +1,15 @@
+desk-bear [TICKER]
+
+Inputs: the filings and transcripts for [TICKER] in this project,
+and stripped-[TICKER] (bull case, five tagged numbers, sources).
+
+1. THE CASE AGAINST (5-8 lines, each cited).
+2. THREE THESIS-BREAKERS, ranked, most serious first. For each:
+   - the fact, with its citation
+   - WATCH: where the next sign would show up (filing and section,
+     a line in the results, a call topic, or Form 4s)
+   - TRIGGER: what that sign would look like, in words a future
+     filing could actually print
+3. ATTACK THE BULL CASE: for each bull point, the strongest counter
+   from the filings, cited. If there's none, write NONE FOUND.
+Exactly three breakers. Three real ones beat five invented ones.

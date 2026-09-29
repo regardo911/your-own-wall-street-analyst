@@ -1,0 +1,15 @@
+FILING CHANGE REPORT · [TICKER] · [date]
+Data line: newest filing used = [form, filing date]
+
+Item 1A change level: QUIET / SOME / HEAVY
+Top changes (quote OLD -> NEW, section, filing):
+  1.
+  2.
+  3.
+Share count (cover page): [count, as of] -> [count, as of] = [+/- %]
+8-Ks since last report: [filing date · item numbers · one line]
+Form 4s since last report:
+  [insider] · [code] · [shares] · 10b5-1 box [Y/N] · routine [Y/N]
+READ: GREEN (quiet filing + an opportunistic P buy)
+      WARNING (heavy rewrite: read the section against my card)
+      NOTHING NEW

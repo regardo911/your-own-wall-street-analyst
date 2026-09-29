@@ -1,0 +1,59 @@
+From Chapter 5: "Below is the memo the command is built to produce, filled with numbers I checked line by line against the filing. Your run's wording will differ. The numbers and tags shouldn't."
+
+DESK MEMO · APPLE INC. (AAPL)
+Data line: 10-Q filed 2026-07-31 · period: three months ended
+June 27, 2026 (vs three months ended June 28, 2025)
+
+1. THESIS (from my card)
+   The iPhone base keeps feeding a Services business that grows
+   faster than hardware at much higher margins.
+
+2. WHAT THE BUSINESS HAS TO DO
+   - Grow Services faster than Products
+   - Keep Services margins far above Products margins
+
+3. BULL CASE
+   - Total net sales $109,417M vs $94,036M, +16.4% CALCULATED [S1]
+   - Total gross margin 50.1% vs 46.5% [S2]
+   - Products gross margin 40.1% vs 34.5% [S2]
+   - Diluted EPS $2.02 vs $1.57 [S1]
+   - Shares outstanding down: 14,608,963K at June 27, 2026 vs
+     14,773,260K at Sept. 27, 2025 [S3]
+
+4. BEAR CASE
+   - Management: "the Company believes, in general, gross margins
+     will be subject to volatility and downward pressure." [S2]
+   - Products margin gain came "primarily due to a different mix of
+     products and tariff refunds, partially offset by higher costs,
+     including memory." [S2] Size of the tariff refunds: NOT FOUND.
+   - Components: "The Company expects these trends to intensify,"
+     referring to supply constraints and rising costs for
+     semiconductors, storage (NAND) and memory (DRAM). [S4]
+
+5. FIVE KEY NUMBERS
+   1. Services net sales ... $30,739M vs $27,423M, +12.1%
+      CALCULATED [S1]
+   2. Products net sales ... $78,678M vs $66,613M, +18.1%
+      CALCULATED [S1]
+   3. Services gross margin % ... 75.6% vs 75.6% [S2]
+   4. Products gross margin % ... 40.1% vs 34.5% [S2]
+   5. Services share of total net sales ... 28.1% vs 29.2%
+      CALCULATED from lines 1-2 and total net sales [S1]
+
+6. WHAT WOULD CHANGE MY MIND (card test)
+   #1 Services grows slower than Products two quarters in a row:
+      TRIPPED for this quarter (+12.1% vs +18.1%) [S1].
+      CAN'T TELL for the prior quarter from this filing: need the
+      10-Q for the quarter ended March 28, 2026.
+   #2 Total gross margin % below the year-ago level while management
+      blames component costs: NOT TRIPPED (50.1% vs 46.5%) [S2].
+      Watch: component-cost warning is in the risk factors [S4].
+
+SOURCES
+[S1] 10-Q filed 2026-07-31 · Condensed Consolidated Statements of
+     Operations · three months ended June 27, 2026 and June 28, 2025
+[S2] same 10-Q · Part I, Item 2, MD&A, gross margin discussion and
+     table · same periods
+[S3] same 10-Q · Condensed Consolidated Balance Sheets · shares
+     issued and outstanding, June 27, 2026 and Sept. 27, 2025
+[S4] same 10-Q · Part II, Item 1A, Risk Factors

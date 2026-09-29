@@ -1,0 +1,12 @@
+desk-inputs [TICKER]
+
+Fetch these from the filings, each tagged (form · filing date ·
+line · period):
+1. Revenue and net income for the last full fiscal year (10-K).
+2. Revenue and net income, this fiscal year-to-date, and the same
+   period a year earlier (latest 10-Q).
+3. Shares outstanding (cover page, with the "as of" date).
+4. Cash, cash equivalents and marketable securities; total debt
+   (latest balance sheet).
+Don't add, subtract or estimate anything. I do the math in my sheet.
+If a line isn't in the filing, write NOT FOUND.

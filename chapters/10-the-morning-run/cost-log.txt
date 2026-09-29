@@ -1,0 +1,5 @@
+COST LOG · morning run
+Date   | Names | 5-hour limit used | Weekly limit used | Weekly % per name
+       |       | before -> after   | before -> after   |
+______ | _____ | ____ -> ____      | ____ -> ____      | ______
+Notes: (a source that failed, a slow run, a change to the prompt)

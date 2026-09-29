@@ -1,0 +1,25 @@
+desk-changes [TICKER] · NEW = [form, filing date, section]
+                      · OLD = [form, filing date, section]
+
+You get the same section from two filings, labelled NEW and OLD.
+Compare them sentence by sentence. Use only these two documents.
+
+Report:
+1. ADDED: sentences or risk factors in NEW that aren't in OLD.
+2. REMOVED: sentences or risk factors in OLD that aren't in NEW.
+3. REWORDED: same idea, different words. Quote OLD, then NEW, and
+   name what changed (a number, a country, a tense, "may" became
+   "is", a new item in a list). Mark each one ESCALATED, SOFTENED
+   or NEUTRAL, using the verb ladder: can/may -> at times ->
+   has experienced -> is experiencing -> expects to intensify ->
+   a number in the results.
+4. MOVED: risk factors or list items that changed position.
+   Give old position and new position.
+
+For every item: quote the text and name the section and filing.
+Ignore page numbers, formatting and cross-references.
+
+End with CHANGE LEVEL for the section: QUIET (a few words),
+SOME (a few sentences), or HEAVY (risk factors added or removed,
+or many rewrites), and the one change most relevant to my thesis
+card. No predictions, no buy/sell.

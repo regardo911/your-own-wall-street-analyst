@@ -1,0 +1,42 @@
+RESEARCH QUESTIONS · the desk uses these instead of "should I buy?"
+Answer from the files and data in this project. Tag every number:
+form · filing date · section · period. Missing = NOT FOUND.
+Never predict a price. Never tell me to buy or sell.
+
+1. Bear case: what's the strongest argument against owning this?
+2. Missing data: what would a careful analyst want that isn't here?
+3. Competitors: revenue growth and gross margin vs the two closest
+   competitors, tagged.
+4. Margin risks: what could push margins down over the next four
+   quarters, according to the company's own filings?
+5. Valuation: what growth and margin does today's price assume?
+   List the assumptions. Don't compute a fair value.
+6. Invalidation: which facts in the next filing would break the
+   thesis on my card?
+7. Period check: for every number above, is it a quarter, a
+   year-to-date figure, or a full year?                  (Ch5)
+8. Silence: what did management discuss last quarter that it
+   stopped mentioning this quarter?                       (Ch6)
+9. What changed: what's new, removed or reworded since the
+   previous filing? Quote both versions.                  (Ch7)
+10. Share count: up or down versus a year ago, and why?   (Ch7)
+11. Insiders: any open-market purchases by officers or
+    directors (Form 4, code P) since the last filing?     (Ch7)
+12. Stop-adding: what single fact would stop me from buying
+    more?                                                 (Ch8)
+
+FOLLOW-UP 1 · Tag it
+Tag every number in your last answer: form, filing date, section,
+period. Any number you can't tag, mark UNTAGGED.
+
+FOLLOW-UP 2 · Which period?
+For each number in your last answer: quarter, year-to-date, or
+full year? Put the period's start and end dates beside it.
+
+FOLLOW-UP 3 · Quote it
+Quote the exact sentence from the filing that supports your last
+point. If you can't quote one, say so.
+
+FOLLOW-UP 4 · Argue with it
+What in the filings argues against what you just told me?
+The two strongest facts, tagged.

@@ -1,0 +1,30 @@
+desk-morning · runs on weekdays
+
+For each ticker in thesis-cards (holdings and candidates):
+1. CLERK: find every 10-Q, 10-K, 8-K, Form 4 and earnings-call
+   transcript dated after the data line in memo-[TICKER].
+   Nothing new -> mark UNCHANGED and move to the next ticker.
+2. TRIGGERS: check the six triggers in trigger-list. If none
+   fired, mark UNCHANGED.
+3. ANALYST: for each fired trigger, write one line: what changed,
+   quoted, with form, filing date and section. If a number on my
+   thesis card crossed its condition, say TRIPPED and quote it.
+4. BEAR: read this ticker's three WATCH/TRIGGER items in breakers.
+   For each, say FIRED or NOT FIRED, with the quote that decides it.
+5. SHARED EXPOSURE: for each fired trigger, search the other
+   tickers' memos and filing sections in this project for the same
+   risk, customer, supplier or cost. List matches with one quoted
+   line each. None -> NONE FOUND.
+6. UPDATE: write a dated update block for each changed ticker,
+   ready to paste under its memo.
+
+Work one ticker at a time. Never carry a number from one ticker
+to another.
+
+OUTPUT (the brief):
+Line 1: [N] checked · [M] flagged · [date]
+Then, only for flagged tickers: ticker, the one line that changed,
+its tag, bear items FIRED, shared exposure.
+Then: the update blocks.
+No predictions, no price commentary, no buy/sell.
+If a source can't be reached, say so; don't fill the gap.

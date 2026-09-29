@@ -1,0 +1,19 @@
+name: ci
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compile the Appendix B script
+        run: python -m py_compile appendix-b/latest_numbers.py
+      - name: Offline tests
+        shell: bash
+        run: |
+          python -m unittest discover -s tests -v 2>&1 | tee test.log
+          grep -qE '^Ran [1-9][0-9]* tests?' test.log

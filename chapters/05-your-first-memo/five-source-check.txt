@@ -1,0 +1,14 @@
+FIVE-SOURCE CHECK · [TICKER] memo · [date]
+#  Number (memo says)        Tag / section            On the page?  Period right?
+1  ______________________    [S_] ______________      Y / N         Y / N
+2  ______________________    [S_] ______________      Y / N         Y / N
+3  ______________________    [S_] ______________      Y / N         Y / N
+4  ______________________    [S_] ______________      Y / N         Y / N
+5  ______________________    [S_] ______________      Y / N         Y / N
+Untagged numbers left in the memo: ___  (must be 0)
+
+Worked line, from the Apple memo:
+1  Services +12.1%,          [S1] Statements of       Y (30,739 and  Y (three months
+   CALCULATED from 30,739    Operations, 10-Q         27,423 both    ended June 27,
+   and 27,423                filed 2026-07-31         printed)       2026 vs June 28,
+                                                                     2025)

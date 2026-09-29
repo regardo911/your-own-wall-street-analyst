@@ -1,0 +1,6 @@
+BEFORE A TICKER JOINS THE MORNING RUN
+[ ] thesis card (or candidate card), written by me       (Ch2, Ch9)
+[ ] memo-[TICKER] with a data line and card test          (Ch5, Ch7)
+[ ] three breakers with WATCH and TRIGGER in breakers     (Ch8)
+[ ] its filings reachable: filing drop or connector       (Ch4)
+[ ] added to thesis-cards, so desk-morning picks it up
